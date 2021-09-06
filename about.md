@@ -8,9 +8,9 @@ I am a professional math tutor for a community college and Sylvan Learning. I en
 
 ### More Information
 
-![](path/to/Ferry Ride Picture.jpg)
+![](path/to/FerryRide.jpg)
 
-### Contact me
+### Contact Me
 
 
 [sawalke4@ncsu.edu](mailto:sawalke4@ncsu.edu)
