@@ -8,7 +8,7 @@ I am a professional math tutor for a community college and Sylvan Learning. I en
 
 ### More Information
 
-![](path/to/FerryRide.jpg)
+![](Pictures/FerryRide.jpg)
 
 ### Contact Me
 
