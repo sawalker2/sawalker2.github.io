@@ -3,6 +3,7 @@ layout: Information Page
 title: About Me
 permalink: /about/
 ---
+
 A picture from a quick ferry ride near Fort Fisher.
 ![Ferry_Ride](https://user-images.githubusercontent.com/89091355/132261553-dc6a107a-29c7-4a13-9c32-551171a41f4c.jpg)
 
