@@ -38,4 +38,4 @@ quickly.
 plot(airquality)
 ```
 
-![](../images/unnamed-chunk-3-1.png)<!-- -->
+![](../images/unnamed-chunk-4-1.png)<!-- -->
