@@ -11,13 +11,11 @@ knitr::opts_chunk$set(fig.path = "../images/")
 
 ```{r, eval=FALSE}
 library(usethis)
-library(tidyverse)
 use_git_config(user.name = "ShaniquaWalker", user.email = "sawalke4@ncsu.edu")
 rmarkdown::render("2021-9-14-Second-Blog-Post.Rmd", 
                   output_format = "github_document", 
-                  output_dir = "../_posts/")
-#git config --global user.email "sawalke4@ncsu.edu"
-#git config --global user.name "Shaniqua Walker"
+                  output_dir = "../_posts/",
+                  output_options = list(html_preview = FALSE, keep_html = FALSE))
 ```
 
 ## My Experience With Programming
